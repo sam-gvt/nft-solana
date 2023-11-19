@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "3Wzgh2iJEiztUwcoSDHWNBTcqaVrcxsLbXJYfgCttt8e",
+    "candyGuard": "",
+    "candyMachineCreator": "4bwBUU7LDpYRb72EQcat85PWtrt2bjtNoZwH3iWZeVxL",
+    "collectionMint": "Dj2PLqBy8qCts12h3yHDaZfmNtAfVfcWTE8c4Zhd6T9"
+  },
+  "items": {
+    "-1": {
+      "name": "NFT_SAM Collection",
+      "image_hash": "66adb97030ba38a597c9fefb278170b3004cb0d78de5e1efc9647da204ad0cee",
+      "image_link": "https://arweave.net/d8XbWZG-NPDGtW2bFhn65APdBdEfM1Tg2fWyTMxJXcI?ext=png",
+      "metadata_hash": "0a2fbb857cd769ec186b5c826d9c97538e2f4bda5c02efb0603bd3882a5ae92b",
+      "metadata_link": "https://arweave.net/o2DtXjH0P11ngYbGJzX6PpDwsmztDCEnxyPRK3fIldo",
+      "onChain": true
+    },
+    "0": {
+      "name": "NFT_SAM_#1",
+      "image_hash": "5d95fcb4ff513d9137e4293df1c58b82596582ff62cca88f62ac9cfa951ab59a",
+      "image_link": "https://arweave.net/e3rPBPVXIWKvYGsaKa5gm4T_SnPwJ3jvv8TldT_-kbg?ext=png",
+      "metadata_hash": "c2c3e6520291104cd47978f3b44613204903a1ea62687482f5ae7b2df3c9e515",
+      "metadata_link": "https://arweave.net/mZzEzoMypGMHIz52DCOOjYUdBN0CuqnoKwHPWH9DKr4",
+      "onChain": true
+    },
+    "1": {
+      "name": "NFT_SAM_#2",
+      "image_hash": "a22b3624a387c52ba710daa460f1b8f6a42b2454024134730369cb4fb2504ef3",
+      "image_link": "https://arweave.net/JowEfohYodtnLMUaDJafrLeMky5fw0hb2HQMDUz0hPY?ext=png",
+      "metadata_hash": "39fc5662b538904739c91ff21fc5effb4c0aa7ef8523465429c39f5e3c7ce132",
+      "metadata_link": "https://arweave.net/nxbmTew6GcOK2tJbadmKr_QvvZgouwdnE_bGzovCcDI",
+      "onChain": true
+    },
+    "2": {
+      "name": "NFT_SAM_#3",
+      "image_hash": "2760922056b2ecd493dc5cade48023919c8c62973f2f26f75f011cc2bc7834d5",
+      "image_link": "https://arweave.net/YkYQsmYcfIqwzawI9tIAuPoY7TupmZxJv4wyfczjSHY?ext=png",
+      "metadata_hash": "3cb2ced06e1a31098ef804daafb269d629140e156525d7da4d1abe8da40f6d3d",
+      "metadata_link": "https://arweave.net/SOQmC2Qvsg5uDrsyBB1ZuQUatgTedP7wQcr-7T5h0dw",
+      "onChain": true
+    }
+  }
+}

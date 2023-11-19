@@ -1,0 +1,15 @@
+{
+    "name": "NFT_SAM_#2",
+    "symbol": "NFT_SAM",
+    "description": "NFT_SAM number : 2/3.",
+    "image": "1.png",
+
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
